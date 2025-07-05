@@ -35,9 +35,8 @@ const metaData = {
   name: 'Impact Stream',
   description:
     'Impact Stream is a platform that allows users to track and verify the impact of their contributions to various causes.',
-  // url: 'https://impactstream.com',
-  // icons: ['https://impactstream.com/icon.png'], 
-}
+  url: 'http://localhost:3000', // temporary for local dev
+  icons: ['https://via.placeholder.com/32'], // temp icon
 
 const Modal = createAppKit({
   projectId,
